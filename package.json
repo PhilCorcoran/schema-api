@@ -1,0 +1,33 @@
+{
+  "name": "schema-api",
+  "version": "0.1.0",
+  "description": "Serves up a JSON definition of a REST API. Enables self documenting services.",
+  "keywords": [
+    "api",
+    "schema",
+    "swagger"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PhilCorcoran/schema-api.git"
+  },
+  "bugs": {
+    "url": "http://github.com/PhilCorcoran/schema-api/issues"
+  },
+  "author": {
+    "name": "Philip Corcoran",
+    "email": "philfcorcoran@gmail.com"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.10.19"
+  }
+}
