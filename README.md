@@ -25,6 +25,7 @@ This is useful if you are developing a set of micro services which may be deploy
 |Version|Date|Description|
 |:--:|:--:|:--|
 |v0.1.0|2014-04-29| Initial Version|
+|v0.1.1|2014-04-30| Access-Control-Allow-Headers |
 
 # License 
 
