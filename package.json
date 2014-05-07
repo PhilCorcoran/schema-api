@@ -1,6 +1,6 @@
 {
   "name": "schema-api",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Serves up a JSON definition of a REST API. Enables self documenting services.",
   "keywords": [
     "api",
