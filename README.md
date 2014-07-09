@@ -27,7 +27,7 @@ This is useful if you are developing a set of micro services which may be deploy
 |v0.1.0|2014-04-29| Initial Version|
 |v0.1.1|2014-04-30| Access-Control-Allow-Headers |
 |v0.1.2|2014-05-07| Add Options request for Swagger UI in CORS situation |
-
+|v0.1.2|2014-07-09| Allow all methods in development environment |
 # License 
 
 (The MIT License)
