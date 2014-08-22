@@ -1,6 +1,6 @@
 {
   "name": "schema-api",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Serves up a JSON definition of a REST API. Enables self documenting services.",
   "keywords": [
     "api",
@@ -25,7 +25,9 @@
     }
   ],
   "main": "./lib",
-  "dependencies": {},
+  "dependencies": {
+    "tv4":"1.1.0"
+  },
   "devDependencies": {},
   "engines": {
     "node": ">= 0.10.19"
