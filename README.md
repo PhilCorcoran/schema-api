@@ -31,6 +31,7 @@ This is useful if you are developing a set of micro services which may be deploy
 ## Release History
 |Version|Date|Description|
 |:--:|:--:|:--|
+|v0.2.2|2014-09-04| Debug logging |
 |v0.2.0|2014-08-22| TV4 JSON validation |
 |v0.1.2|2014-05-07| Add Options request for Swagger UI in CORS situation |
 |v0.1.1|2014-04-30| Access-Control-Allow-Headers |
