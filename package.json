@@ -27,7 +27,7 @@
   "main": "./lib",
   "dependencies": {
     "tv4": "1.1.0",
-    "debug":"2.0.0"
+    "debug":"2.6.9"
  
   },
   "devDependencies": {},
